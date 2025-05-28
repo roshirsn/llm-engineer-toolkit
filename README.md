@@ -281,8 +281,8 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | LLM Guard     | The Security Toolkit for LLM Interactions. | [Link](https://github.com/protectai/llm-guard) |
 | AuditNLG      | AuditNLG is an open-source library that can help reduce the risks associated with using generative AI systems for language. | [Link](https://github.com/salesforce/AuditNLG) |
 | NeMo Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | [Link](https://github.com/NVIDIA/NeMo-Guardrails) |
-| Garak        | LLM vulnerability scanner | [Link](https://github.com/NVIDIA/garak) |
-| DeepTeam | The LLM Red Teaming Framework | [Link](https://github.com/confident-ai/deepteam)|
+| Garak        | LLM vulnerability scanner. | [Link](https://github.com/NVIDIA/garak) |
+| DeepTeam | The LLM Red Teaming Framework. | [Link](https://github.com/confident-ai/deepteam)|
 
 
 ## LLM Embedding Models
